@@ -1,0 +1,561 @@
+
+body{
+	font-family: Circular Std Bold;
+}
+p,strong,button,label,h1,h2,span,small{
+	font-family: Circular Std Bold;
+}
+
+
+
+.navbar-nav > li > a{
+	color:#BE0927;
+	font-weight: bold;
+}
+
+.navbar-brand{
+	padding-top: 0!important;
+}
+
+#chk{
+	background: #A50728;
+	border: 1px solid green;
+}
+
+.navbar-right a{
+	background: #012768;
+	padding: 20px!important;
+	text-decoration: none;
+	border:none;
+	
+}
+
+.navbar-right li{
+background: #012768;
+}
+.navbar-right > li > a{
+	color: #fff;
+	border-radius: 0;
+}
+
+.navbar-nav > li {
+    float: left;
+    margin-left: 46px;
+    padding: 7px 0;
+}
+#myNavbar{
+	border-bottom: 0px solid #efefef;
+}
+.navbar-nav > li:hover{
+	border-bottom: 3px solid #BE0927;
+}
+
+.navbar-nav > li > a:hover{
+	text-decoration: none;
+	background: none!important;
+	
+}
+
+.navbar-header > a:hover{
+	color:#fff;
+	text-decoration: none;
+}
+
+.navbar-right > li > a:focus,.navbar-right > li > a:hover{
+	text-decoration: none!important;
+	background-color:#002868!important;
+	color: #fff;
+	
+}
+.navbar-right > li:hover{
+	border-bottom: none!important;
+}
+
+.hline{
+	/*width:372.16px;*/
+	width: 127.03px;
+	height: 6.84px;
+	background: #BE0927;
+}
+
+.secdis p{
+	color: #BE0927;
+	font-size: 52px;
+	font-family: Circular Std Bold;
+	line-height: 60px;
+}
+.secdis img{
+	width:15%;
+}
+
+.secdis {
+    padding-top: 110px;
+}
+
+.dlt{
+	border-bottom:5px solid #002868; 
+	width: 490.16px;
+	height: 75.06px;
+	font-size: 33px;
+	font-family: Circular Std Bold;
+	box-shadow: 5px 5px 5px 5px #C9C9C9;
+	color: #002868;
+	padding: 13px 2px;
+	position: relative;
+	bottom: 110px;
+
+}
+
+.sec3{
+	padding:50px;
+}
+
+
+.sec1_1 {
+    background: #002768 none repeat scroll 0 0;
+    color: #fff;
+    height: 200.69px;
+    position: relative;
+    top: 86px;
+}
+
+.sec1_1 img{
+	padding: 45px;
+}
+
+.sec1_2 {
+    background-color: rgba(189, 42, 71, 0.5);
+    color: #fff;
+    height: 344.19px;
+}
+
+.sec2_2 > small{
+ 	padding: 54px 0;
+}
+
+.sec1_2 h2 {
+    float: left !important;
+    font-family: Circular Std Bold;
+    font-size: 70px;
+    padding: 118px 0;
+    position: relative;
+    top: 40px;
+}
+.homehead h2{
+	font-size: 52px;
+	font-family: font-family: Circular Std Bold;
+	color: #002768;
+	font-weight: bold;
+}
+.homehead span{
+	color: #BE0927;
+}
+.homedis p {
+    color: #002768;
+    text-align: justify;
+}
+.homesec2 button {
+    background: #bf0a30 none repeat scroll 0 0;
+    border-color: #bf0a30;
+    border-radius: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 14px;
+    width: 35%;
+}
+.homesec2 button:hover{
+	background: #bf0a30;
+	border-color:  #bf0a30; 
+}
+
+.navbar{
+	margin-bottom: 0!important;
+}
+
+.sec1{
+	height: auto;
+	background: url('../images/banner.jpg');
+	background-repeat:no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+	
+	}
+
+	/*Login style start*/
+
+
+.form-signin #inputEmail,
+.form-signin #inputPassword {
+    direction: ltr;
+    height: 44px;
+    font-size: 16px;
+}
+
+.form-signin input[type=email],
+.form-signin input[type=password],
+.form-signin input[type=text],
+.form-signin button {
+    width: 80%;
+    display: block;
+   /* margin-bottom: 10px;*/
+    z-index: 1;
+    position: relative;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.form-signin .form-control:focus {
+    border-color: rgb(104, 145, 162);
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgb(104, 145, 162);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgb(104, 145, 162);
+}
+
+.loginbdy {
+    background: #efefef none repeat scroll 0 0;
+    padding-top: 20px;
+}
+.loginbdy1 {
+    background: #efefef none repeat scroll 0 0;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.lgform{
+	background: #fff;
+	font-family:Circular Std Bold;
+	padding: 10px 0 30px;
+}
+
+.form-signin input{
+	border-radius: 0;
+}
+
+.lgimg{
+	padding: 15px;
+}
+
+.form-signin button{
+	border-radius: 0;
+	background: #002868;
+	font-family: Circular Std;
+	font-size: 19px;
+}
+
+.lgf {
+    padding-top: 10px;
+}
+
+.checkbox{
+	width: 80%;
+}
+
+/*cheackbox registration page as candidate*/
+#checkboxR {
+    text-align: left;
+    width: 80%;
+}
+.checkbox label,#checkboxR label{
+	color:#BE0927 ;
+	font-size: 12px;
+}
+
+.checkbox a{
+	color:#002868;
+	padding: 0px 0px 10px;
+	font-size: 12px;
+}
+
+
+.login-title{
+	color:#BE0927 ;
+}
+
+.lgimg img{
+	width: 20%;
+}
+
+.lgr {
+    color: #002868;
+    padding-top: 10px;
+    font-family: Circular Std bold;
+}
+
+
+.loginbdy strong{
+font-size: 20px;
+}
+
+/*success page style*/
+
+.sucdis {
+    background: #fff none repeat scroll 0 0;
+    color: #be0927;
+    font-family: Circular Std bold;
+    font-size: 22px;
+    padding: 70px 0 60px;
+}
+
+.sucdis button {
+    background-color: #002868;
+    border-radius: 0;
+    color: #fff;
+    width: 10%;
+}
+
+.sucdisimg img{
+	width: 6%;
+}
+
+.dis span{
+	text-decoration: underline;
+}
+
+/*choose who you are?? page start*/
+
+.chb {
+    background: #fff none repeat scroll 0 0;
+    padding: 30px 0;
+    width: 80%;
+}	
+.chbmain{
+	margin-top: -40px;
+}
+.chimg img {
+    width: 100%;
+}
+
+.chbtn {
+    padding-top: 40px;
+}
+
+.chbox:hover button{
+	border: dashed #002868;
+	background: #002868;
+	color: #fff;
+}
+.chbox:hover {
+    border: dashed #002868;
+}
+.chbox {
+    padding: 30px 10px;
+}
+
+.chbtn button{
+	background: #fff;
+	color: #002868;
+	border-radius: 0;
+	border: dashed #002868;
+	width: 100%;
+}
+
+/*register company next page*/
+
+#rac input{
+	border-radius: 0;
+	
+}
+.ma input,.ma1 input,.cn input,.cn1 input{
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	box-shadow: 0 4px 2px -2px #b7b7b7;
+}
+.ma1,.cn1 {
+    margin-left: -26px;
+    width: 98%;
+}
+.cnbtn{
+	width: 85%!important;
+}
+.rnfrm a {
+    background: #002868 none repeat scroll 0 0;
+    color: #fff;
+    font-size: 19px;
+    padding: 10px;
+    position: relative;
+    top: 22px;
+    width: 100%;
+}
+
+textarea{
+	width: 100%;
+}
+
+.resn1.btn-default:hover{
+	background: #002868!important;
+    color: #fff!important;
+    text-decoration: none;
+}
+
+.resn1 input[type=text]{
+	width:85%;
+}
+.cmpy input {
+    height: 46px;
+    margin-top: 10px;
+}
+
+.cmpyt input {
+    height: 204px;
+    margin-top: 10px;
+}
+
+.resn1 > input:first-child{
+padding: 20px;
+}
+
+.ract{
+	padding: 15px!important;
+}
+
+.rsnimg img{
+	width: 6%;
+}
+.resn1 p{
+	color: #BE0927;
+}
+.resn1 span{
+	color: #002868;
+	font-size: 12px;
+}
+
+.chkb label{
+	color:#BC0A2E;
+
+}
+.chkb{
+	width:85%;
+}
+
+.ma input{
+	width:85%!important;
+}
+/*secure as candidate*/
+
+.vascandisate{
+	background: #002768;
+	height: 500px;
+	padding-top: 75px;
+}
+
+.vascandisate h4{
+	padding-left: 80px;
+}
+
+
+.vasinner{
+	border: 1px dashed grey;
+	background: #fff;
+	padding:30px 0;
+}
+
+.vasform1{
+	border: 1px dashed grey;
+	padding: 30px 0;
+}
+.vasform2{
+	background: #002768;
+	color: #fff;
+	padding: 10px 0;
+}
+.vasform2title {
+    border: 1px dashed #fff;
+    padding: 20px;
+    width: 69%;
+}
+.vasform2 p {
+    font-size: 16px;
+    padding: 40px 0 0;
+}
+.vasform3{
+	border: 1px dashed grey;
+	padding: 30px 0;
+}
+.scbox1 h2{
+	font-size: 39px;
+    font-weight: bold;
+}
+
+.scbox1title1 h2 {
+    color: #bf0a30;   
+}
+
+
+.scbox1title2 h2{
+	color: #002768;	
+}
+
+.scbox1img img{
+	padding-top: 115px;
+}
+
+.scbox1line1{
+	 border: 4px solid #bf0a30;
+	width: 47%;
+}
+
+.scbox1line2{
+	 border: 4px solid #002768;
+	width: 57%;
+}
+
+.scbox1title1,.scbox1title2{
+    padding-top: 168px;
+}
+
+.scbox2 p{
+	color: #002768;	
+	border-bottom:  3px solid #002768;
+	padding: 20px 6px;
+	font-size: 32px;
+	 box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+.scbox2 a{
+	border-radius: 50%;
+	color: #002768;
+	padding: 20px 40px 20px 10px;
+	-webkit-border-radius: 99px 0px 20px 99px;
+   -moz-border-radius: 99px 0px 20px 99px;
+	border-radius: 99px 0px 20px 99px;
+	background-color:#F3F2F2;
+}
+
+.vascandisate{
+	color: #bf0a30;
+}
+.vascandisate input{
+	border-radius: 0;
+}
+
+.vasform2 input{
+	border-radius: 0px;
+	background: #002768 none repeat scroll 0 0;
+	border-bottom: 1px solid #fff;
+	border-top: none;
+	border-left:  none;
+	border-right:  none;
+}
+
+.vasform1_1 p{
+	padding-bottom: 19px;
+}
+
+/*footer style start*/
+
+.ftr{
+	background: #002868;
+	color: #fff;
+}
+
+.ftrsuccess{
+	background: #BE0927;
+	color: #fff;
+}
