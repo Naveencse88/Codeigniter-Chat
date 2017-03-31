@@ -1,2 +1,5 @@
 #Ignore these directories 
 images
+
+#ignore these files
+config.php
